@@ -1,5 +1,11 @@
 # @gradio/checkboxgroup
 
+## 0.4.8
+
+### Fixes
+
+- [#7915](https://github.com/gradio-app/gradio/pull/7915) [`efd9524`](https://github.com/gradio-app/gradio/commit/efd95245081f5657b1d13f34038205fc8791c1f7) - Fix gr.CheckboxGroup change event.  Thanks @freddyaboulton!
+
 ## 0.4.7
 
 ### Dependency updates

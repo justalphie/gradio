@@ -1,5 +1,12 @@
 # gradio
 
+## 4.25.1
+
+### Fixes
+
+- [#7756](https://github.com/gradio-app/gradio/pull/7756) [`b729f10`](https://github.com/gradio-app/gradio/commit/b729f10321b571e7de418596d1cf605773b0b8e6) - Bugfix: Fix color and size keys in theme builder app.  Thanks @shubhamofbce!
+- [#7915](https://github.com/gradio-app/gradio/pull/7915) [`efd9524`](https://github.com/gradio-app/gradio/commit/efd95245081f5657b1d13f34038205fc8791c1f7) - Fix gr.CheckboxGroup change event.  Thanks @freddyaboulton!
+
 ## 4.25.0
 
 ### Highlights

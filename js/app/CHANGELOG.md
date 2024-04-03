@@ -1,5 +1,11 @@
 # @gradio/app
 
+## 1.30.2
+
+### Dependency updates
+
+- @gradio/checkboxgroup@0.4.8
+
 ## 1.30.1
 
 ### Fixes
